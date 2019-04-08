@@ -1,0 +1,132 @@
+<?xml version="1.1" encoding="windows-1252"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw"
+    version="1.1" baseProfile="full">
+    <g>
+        <g latexdraw:type="drawing" id="id21682330">
+            <g latexdraw:type="joinedLines" id="id21332755">
+                <polyline
+                    points="355.69314489719227,748.5032459074107 518.0712825468406,269.3558986093998 "
+                    stroke-width="2.5" stroke="black" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id2725253">
+                <polyline
+                    points="355.69314489719227,748.5032459074107 679.3068551028077,748.8641013906001 "
+                    stroke-width="2.5" stroke="black" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id12381260">
+                <polyline
+                    points="355.69314489719227,748.5032459074107 617.7154555215548,565.7041682802324 "
+                    stroke-width="2.5" stroke="black" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id16514175">
+                <polyline
+                    points="518.0712825468406,269.3558986093998 617.7154555215548,565.7041682802324 "
+                    stroke-width="2.5" stroke="black" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id18070504">
+                <polyline
+                    points="617.7154555215548,565.7041682802324 679.3068551028077,748.8641013906001 "
+                    stroke-width="2.5" stroke="black" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="bezierCurve" id="id24679666">
+                <path
+                    d="M 360.1562897943845 748.5032459074107 C 360.1562897943845 750.8745819397993 358.15680088044235 752.7991445168104 355.69314489719227 752.7991445168104 C 353.22948891394213 752.7991445168104 351.23 750.8745819397993 351.23 748.5032459074107 C 351.23 746.1319098750218 353.22948891394213 744.2073472980107 355.69314489719227 744.2073472980107 C 358.1568008804424 744.2073472980107 360.1562897943845 746.1319098750221 360.1562897943845 748.5032459074107 z "
+                    stroke-width="1.0" stroke="black" fill="blue" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="bezierCurve" id="id5491933">
+                <path
+                    d="M 360.1562897943845 748.5032459074107 C 360.1562897943845 750.8745819397993 358.15680088044235 752.7991445168104 355.69314489719227 752.7991445168104 C 353.22948891394213 752.7991445168104 351.23 750.8745819397993 351.23 748.5032459074107 C 351.23 746.1319098750218 353.22948891394213 744.2073472980107 355.69314489719227 744.2073472980107 C 358.1568008804424 744.2073472980107 360.1562897943845 746.1319098750221 360.1562897943845 748.5032459074107 z "
+                    stroke-width="1.0" stroke="black" fill="none" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="bezierCurve" id="id26789100">
+                <path
+                    d="M 522.5344274440329 269.3558986093998 C 522.5344274440329 271.7272346417884 520.5349385300907 273.6517972187995 518.0712825468406 273.6517972187995 C 515.6076265635905 273.6517972187995 513.6081376496484 271.7272346417884 513.6081376496484 269.3558986093998 C 513.6081376496484 266.98456257701105 515.5987002737961 265.05999999999995 518.0712825468406 265.05999999999995 C 520.5438648198851 265.05999999999995 522.5344274440329 266.98456257701116 522.5344274440329 269.3558986093998 z "
+                    stroke-width="1.0" stroke="black" fill="#4d4dff" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="bezierCurve" id="id24182220">
+                <path
+                    d="M 522.5344274440329 269.3558986093998 C 522.5344274440329 271.7272346417884 520.5349385300907 273.6517972187995 518.0712825468406 273.6517972187995 C 515.6076265635905 273.6517972187995 513.6081376496484 271.7272346417884 513.6081376496484 269.3558986093998 C 513.6081376496484 266.98456257701105 515.5987002737961 265.05999999999995 518.0712825468406 265.05999999999995 C 520.5438648198851 265.05999999999995 522.5344274440329 266.98456257701116 522.5344274440329 269.3558986093998 z "
+                    stroke-width="1.0" stroke="black" fill="none" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="bezierCurve" id="id3943572">
+                <path
+                    d="M 683.77 748.8641013906001 C 683.77 751.2354374229889 681.7705110860579 753.16 679.3068551028077 753.16 C 676.8431991195575 753.16 674.8437102056155 751.2354374229889 674.8437102056155 748.8641013906001 C 674.8437102056155 746.4927653582116 676.8431991195575 744.5682027812005 679.3068551028077 744.5682027812005 C 681.7705110860579 744.5682027812005 683.77 746.4927653582114 683.77 748.8641013906001 z "
+                    stroke-width="1.0" stroke="black" fill="#4d4dff" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="bezierCurve" id="id3483050">
+                <path
+                    d="M 683.77 748.8641013906001 C 683.77 751.2354374229889 681.7705110860579 753.16 679.3068551028077 753.16 C 676.8431991195575 753.16 674.8437102056155 751.2354374229889 674.8437102056155 748.8641013906001 C 674.8437102056155 746.4927653582116 676.8431991195575 744.5682027812005 679.3068551028077 744.5682027812005 C 681.7705110860579 744.5682027812005 683.77 746.4927653582114 683.77 748.8641013906001 z "
+                    stroke-width="1.0" stroke="black" fill="none" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="bezierCurve" id="id20783524">
+                <path
+                    d="M 622.178600418747 565.7041682802324 C 622.178600418747 568.0755043126212 620.1880377945993 570.0000668896323 617.7154555215548 570.0000668896323 C 615.2428732485103 570.0000668896323 613.2523106243625 568.0755043126212 613.2523106243625 565.7041682802324 C 613.2523106243625 563.3328322478435 615.2517995383046 561.4082696708324 617.7154555215548 561.4082696708324 C 620.179111504805 561.4082696708324 622.178600418747 563.3328322478435 622.178600418747 565.7041682802324 z "
+                    stroke-width="1.0" stroke="black" fill="#4d4dff" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="bezierCurve" id="id24193874">
+                <path
+                    d="M 622.178600418747 565.7041682802324 C 622.178600418747 568.0755043126212 620.1880377945993 570.0000668896323 617.7154555215548 570.0000668896323 C 615.2428732485103 570.0000668896323 613.2523106243625 568.0755043126212 613.2523106243625 565.7041682802324 C 613.2523106243625 563.3328322478435 615.2517995383046 561.4082696708324 617.7154555215548 561.4082696708324 C 620.179111504805 561.4082696708324 622.178600418747 563.3328322478435 622.178600418747 565.7041682802324 z "
+                    stroke-width="1.0" stroke="black" fill="none" latexdraw:rotationAngle="0.0"/>
+            </g>
+        </g>
+        <g latexdraw:type="text" id="id32577062" fill="black" latexdraw:position="bl">
+            <text x="520.0" y="260.0">$A$</text>
+        </g>
+        <g latexdraw:type="text" id="id23114507" fill="black" latexdraw:position="bl">
+            <text x="320.0" y="760.0">$B$</text>
+        </g>
+        <g latexdraw:type="text" id="id332382" fill="black" latexdraw:position="bl">
+            <text x="700.0" y="760.0">$C$</text>
+        </g>
+        <g latexdraw:type="text" id="id9781850" fill="black" latexdraw:position="bl">
+            <text x="520.0" y="760.0">$x$</text>
+        </g>
+        <g latexdraw:type="text" id="id19936415" fill="black" latexdraw:position="bl">
+            <text x="480.0" y="640.0">$x$</text>
+        </g>
+        <g latexdraw:type="text" id="id12606950" fill="black" latexdraw:position="bl">
+            <text x="420.0" y="520.0">$1$</text>
+        </g>
+        <g latexdraw:type="text" id="id24467490" fill="black" latexdraw:position="bl">
+            <text x="580.0" y="420.0">$x$</text>
+        </g>
+        <g latexdraw:type="text" id="id29582522" fill="black" latexdraw:position="bl">
+            <text x="620.0" y="560.0">$D$</text>
+        </g>
+        <g latexdraw:type="text" id="id26571927" fill="black" latexdraw:position="bl">
+            <text x="660.0" y="640.0">$1-x$</text>
+        </g>
+        <g latexdraw:type="text" id="id19680751" fill="black" latexdraw:position="bl">
+            <text x="507.0" y="334.0">$36^\circ$</text>
+        </g>
+        <g latexdraw:type="text" id="id23351895" fill="black" latexdraw:position="bl">
+            <text x="385.0" y="745.0">$36^\circ$</text>
+        </g>
+        <g latexdraw:type="text" id="id15082081" fill="black" latexdraw:position="bl">
+            <text x="640.0" y="740.0">$72^\circ$</text>
+        </g>
+    </g>
+    <defs/>
+    <metadata>
+        <latexdraw:metadata>
+            <latexdraw:latexIncludes>\usepackage{amssymb}</latexdraw:latexIncludes>
+            <latexdraw:displayXScale>true</latexdraw:displayXScale>
+            <latexdraw:displayYScale>true</latexdraw:displayYScale>
+            <latexdraw:unit>CM</latexdraw:unit>
+            <latexdraw:zoom>1.0</latexdraw:zoom>
+            <latexdraw:magneticGridStyle>CUSTOMISED</latexdraw:magneticGridStyle>
+            <latexdraw:gridGap>20</latexdraw:gridGap>
+            <latexdraw:magneticGrid>false</latexdraw:magneticGrid>
+            <latexdraw:version>3.3.8</latexdraw:version>
+            <latexdraw:size>
+                <latexdraw:width>1936</latexdraw:width>
+                <latexdraw:height>1056</latexdraw:height>
+            </latexdraw:size>
+            <latexdraw:position>
+                <latexdraw:x>-8.0</latexdraw:x>
+                <latexdraw:y>-8.0</latexdraw:y>
+            </latexdraw:position>
+        </latexdraw:metadata>
+    </metadata>
+</svg>
